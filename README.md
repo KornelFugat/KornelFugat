@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on personal project: [Snoxees Game](https://github.com/KornelFugat/Snoxees)
 
-- 🌱 I’m currently learning **React Native & Expo**
+- 🌱 I’m currently learning **React Native & Expo, AI Automation**
 
-- 👯 I’m looking to collaborate on **Frontend jobs**
+- 👯 I’m looking to collaborate on **Software development jobs**
 
 - 📫 How to reach me: **fugatkornel@gmail.com**
 
