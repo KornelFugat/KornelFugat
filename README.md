@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **fugatkornel@gmail.com**
 
-- 📄 Know about my experiences (my CV/Resume): [https://kornel-fugat-resume.tiiny.site/](https://kornel-fugat-resume.tiiny.site/)
+- 📄 Know about my experiences (my CV/Resume): [https://kornelfugat-cv.tiiny.site/] (https://kornelfugat-cv.tiiny.site/)
 
 - ⚡ Fun fact **I support FC Barcelona 🔴🔵**
 
