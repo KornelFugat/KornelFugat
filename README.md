@@ -42,5 +42,3 @@ I turn real business processes into working software: I gather requirements on s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40"/>
   </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kornelfugat&show_icons=true&locale=en&layout=compact" alt="kornelfugat" /></p>
